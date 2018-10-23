@@ -4,7 +4,7 @@
 
 Werewolf Game is a real-time multiplayer game for 6 or more players based on the well-known social party game [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)), commonly also called Mafia.
 
-For the front-end repo, please visit: [Werewolf - front-end](https://github.com/isadorabk/werewolf-front-end)
+For the front-end repo, please visit: [Werewolf - front-end](https://github.com/adriapalleja/werewolf-front-end)
 
 
 
@@ -21,7 +21,6 @@ For the front-end repo, please visit: [Werewolf - front-end](https://github.com/
 ### Prerequisites
 
 - [Node](https://nodejs.org/en/)
-- [mongoDB](https://www.mongodb.com/)
 - [npm](https://www.npmjs.com/)
 
 
@@ -41,14 +40,6 @@ For the front-end repo, please visit: [Werewolf - front-end](https://github.com/
    $ npm install
    ```
 
-3. #### Connect mongoDB database
-
-   In the terminal, run:
-
-   ```
-   $ mongod
-   ```
-
 
 
 ## Usage
@@ -63,7 +54,7 @@ For the front-end repo, please visit: [Werewolf - front-end](https://github.com/
 
 3. ### Set up the front end
 
-   Go to [Werewolf - front-end](https://github.com/isadorabk/werewolf-front-end) and follow the instructions in the README.md file.
+   Go to [Werewolf - front-end](https://github.com/adriapalleja/werewolf-front-end) and follow the instructions in the README.md file.
 
 
 ## Tech Stack
@@ -71,15 +62,14 @@ For the front-end repo, please visit: [Werewolf - front-end](https://github.com/
 Back-end built with:
 
 - [Express](https://koajs.com/)
-- [mongoDB](https://www.mongodb.com/)
 - [Socket.io](https://socket.io/)
 
 
 
-## Author
+## Authors
 
-- Isadora Bassetto Kwiatkowski - [GitHub](https://github.com/isadorabk) - [LinkedIn](https://www.linkedin.com/in/isadora-bassetto-kwiatkowski/)
-
+- Adrià Pallejà - [GitHub](https://github.com/adriapalleja)
+- Olga Chinina - [GitHub](https://github.com/chinins)
 
 
 
